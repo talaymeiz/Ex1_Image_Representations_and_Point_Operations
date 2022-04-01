@@ -2,7 +2,7 @@
 # IMAGE PROCESSING
 ## Exercise 1 : Image Representations and Point Operations
 
-Python 3.9.7 , PyCharm<br>
+Python 3.8 , PyCharm<br>
 ### ex1_utils.py:<br>
 this function returns the normalized image with the requested color space representation.<br>
 <div dir='ltr'>
